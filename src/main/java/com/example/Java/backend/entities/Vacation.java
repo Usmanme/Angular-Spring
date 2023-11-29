@@ -2,7 +2,7 @@ package com.example.Java.backend.entities;
 
 import javax.persistence.*;
 
-import com.example.Java.backend.dto.Link;
+// import com.example.Java.backend.dto.Link;
 
 import lombok.Data;
 
